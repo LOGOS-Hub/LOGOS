@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-<a href="https://huggingface.co/placeholder/LOGOS-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--8B-yellow" height="21px"></a>&nbsp;
-<a href="https://huggingface.co/placeholder/LOGOS-pretrain-1B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--1B-yellow" height="21px"></a>&nbsp;
-<a href="https://huggingface.co/placeholder/LOGOS-pretrain-3B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--3B-yellow" height="21px"></a>&nbsp;
-<a href="https://huggingface.co/placeholder/LOGOS-pretrain-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--8B-yellow" height="21px"></a>
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--8B-yellow" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-pretrain-1B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--1B-yellow" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-pretrain-3B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--3B-yellow" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-pretrain-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--8B-yellow" height="21px"></a>
 </p>
 
 ## Overview
