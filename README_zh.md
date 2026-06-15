@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2510.24701" target="_blank"><img src="https://img.shields.io/badge/Technical Report-b5212f.svg?logo=arxiv" height="21px"></a>&nbsp;
-<a href="https://github.com/placeholder/LOGOS"><img src="https://img.shields.io/badge/GitHub-LOGOS-181717?logo=github&logoColor=white" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/spaces/LOGOS-Hub/LOGOS-Technical-Report/resolve/main/LOGOS_technical_report.pdf" target="_blank"><img src="https://img.shields.io/badge/Technical Report-b5212f.svg?logo=arxiv" height="21px"></a>&nbsp;
+<a href="https://github.com/LOGOS-Hub/LOGOS"><img src="https://img.shields.io/badge/GitHub-LOGOS-181717?logo=github&logoColor=white" height="21px"></a>&nbsp;
 <a href="README.md">English</a>
 </p>
 
 <p align="center">
-<a href="https://huggingface.co/placeholder/LOGOS-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--8B-yellow" height="21px"></a>&nbsp;
-<a href="https://huggingface.co/placeholder/LOGOS-pretrain-1B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--1B-yellow" height="21px"></a>&nbsp;
-<a href="https://huggingface.co/placeholder/LOGOS-pretrain-3B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--3B-yellow" height="21px"></a>&nbsp;
-<a href="https://huggingface.co/placeholder/LOGOS-pretrain-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--8B-yellow" height="21px"></a>
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--8B-yellow" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-pretrain-1B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--1B-yellow" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-pretrain-3B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--3B-yellow" height="21px"></a>&nbsp;
+<a href="https://huggingface.co/LOGOS-Hub/LOGOS-pretrain-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-LOGOS--pretrain--8B-yellow" height="21px"></a>
 </p>
 
 ## 概述
