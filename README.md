@@ -220,7 +220,7 @@ LOGOS is developed by Alibaba Group and Gaoling School of Artificial Intelligenc
 }
 ```
 
-## Citation
+## Contact
 
 If you have any questions, feel free to reach us at:
 
