@@ -204,6 +204,22 @@ Results are saved as JSONL files under `results_dir/<task>_<t>_<p>_<rp>/results.
 
 LOGOS is based on an autoregressive Transformer architecture with continued multi-domain pre-training on a unified scientific grammar. The framework spans a parameter range from **1B to 8B**, with stable scaling behavior observed across this range.
 
+## Citation
+
+LOGOS is developed by Alibaba Group and Gaoling School of Artificial Intelligence, Renmin University of China. If you find this work useful in your research or applications, please cite our technical report.
+
+```bibtex
+@misc{li2026speakinglanguagesciencegeneralpurpose,
+      title={Speaking the Language of Science: Toward a General-Purpose Generative Foundation Model for the Natural Sciences}, 
+      author={Mingyang Li and Yurou Liu and Jieping Ye and Bing Su and Ji-Rong Wen and Zheng Wang},
+      year={2026},
+      eprint={2606.16905},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.16905}, 
+}
+```
+
 
 ## License
 
