@@ -220,6 +220,14 @@ LOGOS is developed by Alibaba Group and Gaoling School of Artificial Intelligenc
 }
 ```
 
+## Citation
+
+If you have any questions, feel free to reach us at:
+
+Yurou Liu: yurouliu99@gmail.com
+
+Mingyang Li: sangheng.lmy@alibaba-inc.com
+
 
 ## License
 
