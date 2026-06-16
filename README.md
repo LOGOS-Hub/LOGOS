@@ -220,13 +220,6 @@ LOGOS is developed by Alibaba Group and Gaoling School of Artificial Intelligenc
 }
 ```
 
-## Contact
-
-If you have any questions, feel free to reach us at:
-
-Yurou Liu: yurouliu99@gmail.com
-
-Mingyang Li: sangheng.lmy@alibaba-inc.com
 
 
 ## License
@@ -234,3 +227,11 @@ Mingyang Li: sangheng.lmy@alibaba-inc.com
 This project is released under the **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)**.
 
 We welcome collaboration, feedback, and community contributions to advance unified generative modeling for the natural sciences.
+
+## Contact
+
+If you have any questions, feel free to reach us at:
+
+Yurou Liu: yurouliu99@gmail.com
+
+Mingyang Li: sangheng.lmy@alibaba-inc.com
