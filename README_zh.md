@@ -204,6 +204,22 @@ python material_generation.py \
 
 LOGOS 基于自回归 Transformer 架构，并在统一科学语法上进行多领域持续预训练。模型参数规模覆盖 **1B 至 8B**，在该区间内观察到稳定的扩展行为。
 
+## 引用
+
+LOGOS 由阿里巴巴集团与中国人民大学高瓴人工智能学院联合研发。如本工作对您的研究或应用有所帮助，请引用我们的技术报告。
+
+```bibtex
+@misc{li2026speakinglanguagesciencegeneralpurpose,
+      title={Speaking the Language of Science: Toward a General-Purpose Generative Foundation Model for the Natural Sciences}, 
+      author={Mingyang Li and Yurou Liu and Jieping Ye and Bing Su and Ji-Rong Wen and Zheng Wang},
+      year={2026},
+      eprint={2606.16905},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.16905}, 
+}
+```
+
 
 ## 许可证
 
