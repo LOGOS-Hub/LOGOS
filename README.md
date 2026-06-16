@@ -232,6 +232,6 @@ We welcome collaboration, feedback, and community contributions to advance unifi
 
 If you have any questions, feel free to reach us at:
 
-Yurou Liu: yurouliu99@gmail.com
+Yurou Liu: yurouliu99@gmail.com, Mingyang Li: sangheng.lmy@alibaba-inc.com
 
-Mingyang Li: sangheng.lmy@alibaba-inc.com
+
