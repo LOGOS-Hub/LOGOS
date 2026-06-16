@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2606.16905" target="_blank"><img src="https://img.shields.io/badge/Technical Report-b5212f.svg?logo=arxiv" height="21px"></a>&nbsp;
+<a href="https://arxiv.org/pdf/2606.16905" target="_blank"><img src="https://img.shields.io/badge/Technical Report-b5212f.svg?logo=arxiv" height="21px"></a>&nbsp;
 <a href="https://github.com/LOGOS-Hub/LOGOS"><img src="https://img.shields.io/badge/GitHub-LOGOS-181717?logo=github&logoColor=white" height="21px"></a>&nbsp;
 <a href="README.md">English</a>
 </p>
