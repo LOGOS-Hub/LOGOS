@@ -230,7 +230,7 @@ We welcome collaboration, feedback, and community contributions to advance unifi
 
 ## Contact
 
-We warmly welcome wet-lab collaborations to further validate and advance this work together. If you are interested in collaboration or have any questions, feel free to reach us at:
+We warmly welcome wet-lab collaborations to further validate and advance this work together! If you are interested in collaboration or have any questions, feel free to reach us at:
 
 Yurou Liu: yurouliu99@gmail.com, Mingyang Li: sangheng.lmy@alibaba-inc.com
 
